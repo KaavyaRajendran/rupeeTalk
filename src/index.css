@@ -1,0 +1,10 @@
+#root, body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body, html, #root {
+  background-color: #151618;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./assets/background\ image.png);
+  background-size: cover;
+}
